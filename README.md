@@ -19,7 +19,7 @@ SongHub is a web-based music streaming application that uses YouTube Music as it
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/itsayush1704/songhub1.git
 cd songhub
 ```
 
