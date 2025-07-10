@@ -3,6 +3,8 @@
 SongHub is a web-based music streaming application that uses YouTube Music as its backend. It provides a clean, modern interface for searching and playing music from YouTube Music's vast library.
 
 ## Features
+<img width="692" height="1366" alt="image" src="https://github.com/user-attachments/assets/0c78da63-c907-4956-b65c-bacee620da16" />
+
 
 - 🔍 Search for songs from YouTube Music
 - ▶️ Stream music directly in the browser
