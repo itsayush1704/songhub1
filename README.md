@@ -4,6 +4,8 @@
 
 SongHub uses YouTube Music as its backend and provides a clean, modern interface for searching and playing music from YouTube Music's vast library.
 
+<img width="692" height="1366" alt="image" src="https://github.com/user-attachments/assets/0c78da63-c907-4956-b65c-bacee620da16" />
+
 ## 🎯 Learning Objectives
 
 This project demonstrates:
